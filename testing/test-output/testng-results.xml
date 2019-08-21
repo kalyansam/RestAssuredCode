@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-08-21T01:42:52Z" name="Default suite" finished-at="2019-08-21T01:42:56Z" duration-ms="4333">
+  <suite started-at="2019-08-21T08:06:25Z" name="Default suite" finished-at="2019-08-21T08:06:30Z" duration-ms="4855">
     <groups>
     </groups>
-    <test started-at="2019-08-21T01:42:52Z" name="Default test" finished-at="2019-08-21T01:42:56Z" duration-ms="4333">
+    <test started-at="2019-08-21T08:06:25Z" name="Default test" finished-at="2019-08-21T08:06:30Z" duration-ms="4855">
       <class name="com.webservices.testing.sampleAPI">
-        <test-method signature="firstapitest()[pri:1, instance:com.webservices.testing.sampleAPI@3e3047e6]" started-at="2019-08-21T01:42:52Z" name="firstapitest" finished-at="2019-08-21T01:42:55Z" duration-ms="3402" status="PASS">
+        <test-method signature="firstapitest()[pri:1, instance:com.webservices.testing.sampleAPI@3e3047e6]" started-at="2019-08-21T08:06:25Z" name="firstapitest" finished-at="2019-08-21T08:06:29Z" duration-ms="3919" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstapitest -->
-        <test-method signature="postmethod()[pri:2, instance:com.webservices.testing.sampleAPI@3e3047e6]" started-at="2019-08-21T01:42:55Z" name="postmethod" finished-at="2019-08-21T01:42:56Z" duration-ms="870" status="PASS">
+        <test-method signature="postmethod()[pri:2, instance:com.webservices.testing.sampleAPI@3e3047e6]" started-at="2019-08-21T08:06:29Z" name="postmethod" finished-at="2019-08-21T08:06:30Z" duration-ms="872" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postmethod -->
